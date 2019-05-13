@@ -1,1 +1,1 @@
-
+Calculating the multiplications of very big big negative integer is a very complex job. In the very begining of C++ learning (back 2015), I tried to implement my C++ knowledge to calculate this big big negative integer multiplication. After compiling this program in compiler, we can calculate this big big negative integer multiplication result.  
